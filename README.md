@@ -1,0 +1,2 @@
+# ICT-
+GitHub is a web-based platform used for version control, collaboration, and code management. It allows developers to store, share, and manage their projects online using the Git system.
